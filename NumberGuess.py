@@ -1,4 +1,4 @@
-# Question Number Guessing Game
+# Question : Number Guessing Game
 
 import random
 
